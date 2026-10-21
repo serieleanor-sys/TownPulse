@@ -1,0 +1,6 @@
+{
+  "name": "SDP TownPulse - Smart Township Platform",
+  "description": "Smart township platform for Sime Darby Property communities (City of Elmina pilot). Report damaged facilities with AI visual inspection, track complaints in real-time, and discover community events.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
